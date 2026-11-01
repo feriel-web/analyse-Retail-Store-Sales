@@ -1,0 +1,17 @@
+# Lire, organiser et nettoyer les données
+pandas
+
+# Effectuer des calculs numériques
+numpy
+
+# Créer des graphiques
+matplotlib
+
+# Créer des graphiques statistiques
+seaborn
+
+# Travailler dans des notebooks Python
+jupyter
+
+# Lire et modifier des fichiers Excel
+openpyxl

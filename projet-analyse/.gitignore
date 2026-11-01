@@ -1,0 +1,9 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Données brutes
+data/raw/
