@@ -15,3 +15,7 @@ jupyter
 
 # Lire et modifier des fichiers Excel
 openpyxl
+
+# gérer les dossier et les fichier 
+pathlib 
+
